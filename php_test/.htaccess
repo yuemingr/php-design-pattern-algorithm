@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule index.html index.php
+RewriteRule list-([A-Z]+)\.html$ list.php?mode=$1[NC]
+RewriteRule list-([A-Z]+)-page-(\d+)\.html$ list.php?mode=$1[NC]&page=$2
