@@ -1,8 +1,4 @@
 <?php
-	function memory_usage() {   
-	  $memory     = ( ! function_exists('memory_get_usage')) ? '0' : round(memory_get_usage()/1024/1024, 2).'MB';  
-	  return $memory; 
-	} 
 	header("Content-type: text/html; charset=utf-8");
 	echo '排序<br>';
 	$arr= array(1,34,323,23,22,65,53,874,643,6723,33,673,323,93,39,455,3);
