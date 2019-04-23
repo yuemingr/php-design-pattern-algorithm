@@ -1,0 +1,12 @@
+[2017-12-14 12:12:35] name.WARNING: Foo [] []
+[2017-12-14 12:12:36] name.WARNING: Foo [] []
+[2017-12-14 12:12:58] name.WARNING: Foo [] []
+[2017-12-14 12:12:58] name.WARNING: Foo [] []
+[2017-12-14 12:13:52] name.WARNING: Foo
+ [] []
+[2017-12-14 12:13:53] name.WARNING: Foo
+ [] []
+[2017-12-14 12:13:53] name.WARNING: Foo
+ [] []
+[2017-12-14 12:13:53] name.WARNING: Foo
+ [] []
